@@ -1,4 +1,37 @@
-# Getting Started with Create React App
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/achalesh27022003/)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-HTML.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-CSS.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-JS.svg)](http://ForTheBadge.com)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
+## Hackathon Submission
+This project is being submittedin Hackverse 2.0 hackathon.
+
+1. **Team Name:** Hack404
+2. **Project Name:** COVID-19 Tracker
+3. **Devfolio Submission:** [Link](https://devfolio.co/submissions/covid-tracker-2463) 
+4. **Contributors:** 
+    <table>
+	<tr>
+    <td align="center">
+            <a href="https://github.com/achalesh27022003">
+              <img src="https://avatars.githubusercontent.com/u/57138750?v=4" width="100px" alt=""/><br />
+              <sub><b>Achalesh Lakhotiya</b></sub>
+            </a><br/>
+   </td>
+   <td align="center">
+            <a href="https://github.com/Vishvasbansal">
+              <img src=" https://avatars.githubusercontent.com/u/56829492?v=4" width="100px" alt=""/><br />
+              <sub><b>Vishvas Bansal </b></sub>
+            </a><br/>
+   </td>
+  </tr>
+</table>
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
