@@ -22,7 +22,7 @@ This project is being submittedin Hackverse 2.0 hackathon.
    </td>
    <td align="center">
             <a href="https://github.com/Vishvasbansal">
-              <img src=" https://avatars.githubusercontent.com/u/56829492?v=4" width="100px" alt=""/><br />
+              <img src="https://avatars.githubusercontent.com/u/33758848?v=4" width="100px" alt=""/><br />
               <sub><b>Vishvas Bansal </b></sub>
             </a><br/>
    </td>
