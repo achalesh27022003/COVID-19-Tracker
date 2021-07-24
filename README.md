@@ -11,7 +11,8 @@ This project is being submittedin Hackverse 2.0 hackathon.
 1. **Team Name:** Hack404
 2. **Project Name:** COVID-19 Tracker
 3. **Devfolio Submission:** [Link](https://devfolio.co/submissions/covid-tracker-2463) 
-4. **Contributors:** 
+4. **Live Deployed URL:** [Let's Track](https://condescending-feynman-16b685.netlify.app/)
+5. **Contributors:** 
     <table>
 	<tr>
     <td align="center">
