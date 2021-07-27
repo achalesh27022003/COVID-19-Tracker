@@ -14,6 +14,10 @@ import { sortData, prettyPrintStat } from "./util";
 import numeral from "numeral"; 
 import Map from "./Map";
 import "leaflet/dist/leaflet.css";
+import ReactGA from 'react-ga';
+
+ReactGA.initialize('UA-203332781-2', ['options']);
+ReactGA.pageview(window.location.pathname);
 
 const App = () => {
   const [country, setInputCountry] = useState("worldwide");
