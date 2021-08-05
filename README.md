@@ -1,13 +1,18 @@
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/achalesh27022003/)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-HTML.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-CSS.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-JS.svg)](http://ForTheBadge.com)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-2ea44f)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://gitHub.com/achalesh27022003/)
 
 ## Hackathon Submission
-This project is being submittedin Hackverse 2.0 hackathon.
-
+This project is being submitted in Hackverse 2.0 hackathon.
 1. **Team Name:** Hack404
 2. **Project Name:** COVID-19 Tracker
 3. **Devfolio Submission:** [Link](https://devfolio.co/submissions/covid-tracker-2463) 
